@@ -1,0 +1,11 @@
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\bin\Debug\vize_sonrasi_1.exe.config
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\bin\Debug\vize_sonrasi_1.exe
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\bin\Debug\vize_sonrasi_1.pdb
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\obj\Debug\vize_sonrasi_1.csproj.AssemblyReference.cache
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\obj\Debug\vize_sonrasi_1.Form1.resources
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\obj\Debug\vize_sonrasi_1.Properties.Resources.resources
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\obj\Debug\vize_sonrasi_1.csproj.GenerateResource.cache
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\obj\Debug\vize_sonrasi_1.csproj.CoreCompileInputs.cache
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\obj\Debug\vize_sonrasi_1.exe
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\obj\Debug\vize_sonrasi_1.pdb
+C:\Users\Osdijum\Desktop\Vis_Prog-master\mid_af_1\vize_sonrasi_1\vize_sonrasi_1\obj\Debug\vize_sonrasi_1.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\bin\Debug\ders2.exe.config
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\bin\Debug\ders2.exe
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\bin\Debug\ders2.pdb
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\obj\Debug\ders2.csproj.AssemblyReference.cache
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\obj\Debug\ders2.Properties.Resources.resources
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\obj\Debug\ders2.csproj.GenerateResource.cache
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\obj\Debug\ders2.csproj.CoreCompileInputs.cache
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\obj\Debug\ders2.exe
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\obj\Debug\ders2.pdb
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders2\obj\Debug\ders2.Form1.resources

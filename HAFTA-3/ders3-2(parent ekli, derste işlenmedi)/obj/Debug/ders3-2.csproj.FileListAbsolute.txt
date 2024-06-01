@@ -1,0 +1,10 @@
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\bin\Debug\ders3-2.exe.config
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\bin\Debug\ders3-2.exe
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\bin\Debug\ders3-2.pdb
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\obj\Debug\ders3-2.csproj.AssemblyReference.cache
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\obj\Debug\ders3_2.Form1.resources
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\obj\Debug\ders3_2.Properties.Resources.resources
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\obj\Debug\ders3-2.csproj.GenerateResource.cache
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\obj\Debug\ders3-2.csproj.CoreCompileInputs.cache
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\obj\Debug\ders3-2.exe
+C:\Users\Osdijum\Desktop\Csharp Terminal\ders3-2\obj\Debug\ders3-2.pdb

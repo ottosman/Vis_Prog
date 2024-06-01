@@ -1,0 +1,10 @@
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\bin\Debug\ders 1-2.exe.config
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\bin\Debug\ders 1-2.exe
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\bin\Debug\ders 1-2.pdb
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\obj\Debug\ders 1-2.csproj.AssemblyReference.cache
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\obj\Debug\ders_1_2.Form1.resources
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\obj\Debug\ders_1_2.Properties.Resources.resources
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\obj\Debug\ders 1-2.csproj.GenerateResource.cache
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\obj\Debug\ders 1-2.csproj.CoreCompileInputs.cache
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\obj\Debug\ders 1-2.exe
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-6\Ders 2\ders 1-2\obj\Debug\ders 1-2.pdb

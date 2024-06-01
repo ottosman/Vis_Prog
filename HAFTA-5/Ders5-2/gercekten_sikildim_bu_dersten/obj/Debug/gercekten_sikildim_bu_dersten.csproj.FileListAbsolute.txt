@@ -1,0 +1,10 @@
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\bin\Debug\gercekten_sikildim_bu_dersten.exe.config
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\bin\Debug\gercekten_sikildim_bu_dersten.exe
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\bin\Debug\gercekten_sikildim_bu_dersten.pdb
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\obj\Debug\gercekten_sikildim_bu_dersten.csproj.AssemblyReference.cache
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\obj\Debug\gercekten_sikildim_bu_dersten.Form1.resources
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\obj\Debug\gercekten_sikildim_bu_dersten.Properties.Resources.resources
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\obj\Debug\gercekten_sikildim_bu_dersten.csproj.GenerateResource.cache
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\obj\Debug\gercekten_sikildim_bu_dersten.csproj.CoreCompileInputs.cache
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\obj\Debug\gercekten_sikildim_bu_dersten.exe
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-5\Ders5-2\gercekten_sikildim_bu_dersten\obj\Debug\gercekten_sikildim_bu_dersten.pdb

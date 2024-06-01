@@ -1,0 +1,11 @@
+13
+12
+11
+12
+11
+10
+BU DOSYANIN DİZİNİ=
+C:\Users\Osdijum\Desktop\Csharp_Terminal\Haftalar\HAFTA-4\ders4\bin\Debug\ders4-need.txt
+koddaki tırnak içerisindeki "ders4-need.txt" yerine path yapıştırılabilir.
+CANERCANERCANER
+CANER CANER CANER

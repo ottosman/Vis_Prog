@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Osdijum\\Desktop\\Csharp_Terminal\\Haftalar\\HAFTA-3\\Ders3-4 (sadece ikinci s\u0131n\u0131flar)\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A98DB531-837C-4344-A978-EE900E879E8B}|WindowsFormsApp1.csproj|C:\\Users\\Osdijum\\Desktop\\Csharp_Terminal\\Haftalar\\HAFTA-3\\Ders3-4 (sadece ikinci s\u0131n\u0131flar)\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A98DB531-837C-4344-A978-EE900E879E8B}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A98DB531-837C-4344-A978-EE900E879E8B}|WindowsFormsApp1.csproj|c:\\users\\osdijum\\desktop\\csharp_terminal\\haftalar\\hafta-3\\ders3-4 (sadece ikinci s\u0131n\u0131flar)\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A98DB531-837C-4344-A978-EE900E879E8B}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Osdijum\\Desktop\\Csharp_Terminal\\Haftalar\\HAFTA-3\\Ders3-4 (sadece ikinci s\u0131n\u0131flar)\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Osdijum\\Desktop\\Csharp_Terminal\\Haftalar\\HAFTA-3\\Ders3-4 (sadece ikinci s\u0131n\u0131flar)\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwDYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:27:26.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Osdijum\\Desktop\\Csharp_Terminal\\Haftalar\\HAFTA-3\\Ders3-4 (sadece ikinci s\u0131n\u0131flar)\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Osdijum\\Desktop\\Csharp_Terminal\\Haftalar\\HAFTA-3\\Ders3-4 (sadece ikinci s\u0131n\u0131flar)\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T17:24:46.621Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
